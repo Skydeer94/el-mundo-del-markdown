@@ -42,3 +42,6 @@ http://localhost:8080/skydeer/index.html
 
 ### ***OPEN SERVER***
 https://el-mundo-del-markdown-blond.vercel.app/skydeer
+
+
+Cambios aplicados en main
